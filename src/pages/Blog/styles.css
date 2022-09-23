@@ -1,0 +1,29 @@
+.blog-wrap {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.blog-wrap img {
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.blog-date {
+  font-size: 0.8rem;
+  color: #000000;
+  font-weight: 500;
+}
+
+.blog-voltar {
+  width: 90px;
+  text-decoration: none;
+  font-size: 2rem;
+  color: #000000;
+  display: block;
+  transition: .4s ease;
+}
+.blog-voltar:hover {
+  font-size: 2.5rem;
+  color: black;
+}
